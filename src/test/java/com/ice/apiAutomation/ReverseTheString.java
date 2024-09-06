@@ -20,5 +20,7 @@ public class ReverseTheString {
 		temp = " " + new_Value[i] + temp;
 	}
 	System.out.println(temp);
+	
+	
 }
 }
