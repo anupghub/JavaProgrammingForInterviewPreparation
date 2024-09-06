@@ -27,8 +27,7 @@ public class OccurenceOfCharacter {
 	        		         
 	        	}else
 	        		map.put(new_Value[i], integer+1);
-	         }
-	         
+	         }	         
 	         System.out.println(map);
 	}
 }
