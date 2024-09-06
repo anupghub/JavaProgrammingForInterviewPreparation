@@ -31,7 +31,5 @@ public class OccurenceOfCharacter {
 	         }
 	         
 	         System.out.println(map);
-	
 	}
-
 }
