@@ -15,7 +15,6 @@ public class OccurenceOfCharacter {
 		
 		String value = "IHAANIVAAN";
 		char[] new_Value = value.toCharArray();
-		
 		HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 		
 	         for(int i=0; i<new_Value.length; i++) {
