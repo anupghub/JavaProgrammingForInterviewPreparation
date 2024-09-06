@@ -22,8 +22,7 @@ public class OccurenceOfCharacter {
 	        	 
 	        	Integer integer =  map.get(new_Value[i]);
 	        	
-	        	if(integer == null) {
-	        		
+	        	if(integer == null) {	        		
 	        		         map.put(new_Value[i], 1);
 	        		         
 	        	}else
